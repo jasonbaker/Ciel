@@ -32,6 +32,7 @@ void add_history(char *) {}
 #endif
 
 #include <stdlib.h>
+#include <cctype>
 #include "rlstream.h"
 
 /////////////////////////////////
